@@ -24,6 +24,9 @@ document.onkeyup=function(game){
             console.log ("You Lost!")
             losses++
             console.log ("losses" + losses)
-        }
+        }   
     }
+}
+#game {
+    font:font-family: 'Titan One', cursive;
 }
