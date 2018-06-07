@@ -5,31 +5,31 @@
 .win{
     font-family: 'Karla', sans-serif;
     color: navy;
-    font-size: 700px;
+    font-size: 150px;
     align-items: center
 }   
 .red{
     font-family: 'Cute Font', cursive;
     color:darkred;
-    font-size: 500px;
+    font-size: 200;
     align-items: center
 }
 .losses{
     font-family: 'Righteous', cursive;
     color:yellow;
-    font-size: 500px;
+    font-size: 150px;
     align-items: center;
    
 }
 .left{
     font-family: 'Monoton', cursive;
     color:green;
-    font-size: 500px;
+    font-size: 150px;
     align-items: center
 }
 .your{
     font-family: 'Cabin Sketch', cursive;
-    color:rgb(7, 72, 73)
-    font-size: 500px;
+    color:rgb(7, 72, 73);
+    font-size: 150px;
     align-items:center
 }
