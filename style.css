@@ -1,8 +1,35 @@
-#game{
-   font-family: 'Titan One', cursive;
-   font-size: 400px
-   font-family: 'Jua', sans-serif;
+#game {
+   background-color: gray;
+   align-items: center
 }
 .win{
-    color: blue
+    font-family: 'Karla', sans-serif;
+    color: navy;
+    font-size: 500px;
+    align-items: center
 }   
+.red{
+    font-family: 'Cute Font', cursive;
+    color:darkred;
+    font-size: 500px;
+    align-items: center
+}
+.losses{
+    font-family: 'Righteous', cursive;
+    color:yellow;
+    font-size: 500px;
+    align-items: center;
+   
+}
+.left{
+    font-family: 'Monoton', cursive;
+    color:green;
+    font-size: 500px;
+    align-items: center
+}
+.your{
+    font-family: 'Cabin Sketch', cursive;
+    color:rgb(7, 72, 73)
+    font-size: 500px;
+    align-items:center
+}

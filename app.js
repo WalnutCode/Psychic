@@ -36,9 +36,9 @@ document.onkeyup=function(game){
         }   
     }
     var html = "<p class = 'win'> Wins: " + wins + "</p>"
-        + "<p> Losses: " + losses + "</p>"
-        + "<p> Guesses Left: " + guessesLeft + "</p>"
-        + "<p> Your Guess: " + uGuess + "</p>"
+        + "<p class = losses> Losses: " + losses + "</p>"
+        + "<p class = left> Guesses Left: " + guessesLeft + "</p>"
+        + "<p class = your> Your Guess: " + uGuess + "</p>"
 
     $("#game").html(html)
     //$.addClass
